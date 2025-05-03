@@ -1,0 +1,5 @@
+# Ignorar o ambiente virtual
+venv/
+
+# Ignorar variáveis de ambiente
+.env
