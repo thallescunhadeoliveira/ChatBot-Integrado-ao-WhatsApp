@@ -37,8 +37,7 @@ ChatBot-Integrado-ao-WhatsApp/
 Desenvolvido por: 
 ## 👨‍💻 Desenvolvedores
 
-| Nome             | GitHub | LinkedIn |
-|------------------|--------|----------|
-| **Thalles Oliveira** | [![GitHub](https://img.shields.io/badge/-thallescunhadeoliveira-181717?style=flat-square&logo=github)](https://github.com/thallescunhadeoliveira) | [![LinkedIn](https://img.shields.io/badge/-Thalles_Cunha_de_Oliveira-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalles-cunha-de-oliveira/) |
-| **Matheus Mori**     | [![GitHub](https://img.shields.io/badge/-mori--mkm-181717?style=flat-square&logo=github)](https://github.com/mori-mkm) | [![LinkedIn](https://img.shields.io/badge/-Matheus_Mori-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-mori/) |
+**Thalles Oliveira**  [![GitHub](https://img.shields.io/badge/-000000?style=flat-square&logo=github)](https://github.com/thallescunhadeoliveira) [![LinkedIn](https://img.shields.io/badge/-in-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalles-cunha-de-oliveira/)
+
+**Matheus Mori**      [![GitHub](https://img.shields.io/badge/-000000?style=flat-square&logo=github)](https://github.com/mori-mkm) [![LinkedIn](https://img.shields.io/badge/-in-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-mori/)
 
