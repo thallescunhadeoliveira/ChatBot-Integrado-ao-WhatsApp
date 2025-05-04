@@ -21,20 +21,19 @@ Desenvolver um sistema robusto e escalável que:
 
 ## 📁 Estrutura do projeto
 ChatBot-Integrado-ao-WhatsApp/
-│
-├── app/
-│ ├── main.py # Arquivo principal, define os endpoints
-│ ├── whatsapp.py # Funções de integração com a API do WhatsApp
-│ ├── llm.py # Lógica de chamadas ao modelo de linguagem
-│ ├── session.py # Gerenciamento de contexto de conversas
-│ └── config.py # Variáveis de ambiente e chaves de API
-│
-├── requirements.txt # Dependências do projeto
-├── .env # Variáveis de ambiente (não versionado)
-├── README.md # Este arquivo
-└── .gitignore
+│<br>
+├── app/<br>
+│ ├── main.py    # Arquivo principal, define os endpoints<br>
+│ ├── whatsapp.py    # Funções de integração com a API do WhatsApp<br>
+│ ├── llm.py    # Lógica de chamadas ao modelo de linguagem<br>
+│ ├── session.py    # Gerenciamento de contexto de conversas<br>
+│ └── config.py    # Variáveis de ambiente e chaves de API<br>
+│<br>
+├── requirements.txt    # Dependências do projeto<br>
+├── .env    # Variáveis de ambiente (não versionado)<br>
+├── README.md    # Este arquivo<br>
+└── .gitignore<br>
 
-Desenvolvido por: 
 ## 👨‍💻 Desenvolvedores
 
 **Thalles Oliveira**  [![GitHub](https://img.shields.io/badge/-000000?style=flat-square&logo=github)](https://github.com/thallescunhadeoliveira) [![LinkedIn](https://img.shields.io/badge/-in-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalles-cunha-de-oliveira/)
