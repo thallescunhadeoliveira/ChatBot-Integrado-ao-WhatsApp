@@ -38,5 +38,3 @@ ChatBot-Integrado-ao-WhatsApp/
 
 **Thalles Oliveira**  [![GitHub](https://img.shields.io/badge/-000000?style=flat-square&logo=github)](https://github.com/thallescunhadeoliveira) [![LinkedIn](https://img.shields.io/badge/-in-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalles-cunha-de-oliveira/)
 
-**Matheus Mori**      [![GitHub](https://img.shields.io/badge/-000000?style=flat-square&logo=github)](https://github.com/mori-mkm) [![LinkedIn](https://img.shields.io/badge/-in-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-mori/)
-
